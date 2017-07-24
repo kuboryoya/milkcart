@@ -1,0 +1,52 @@
+#qr-left,
+#qr-right,
+#sp-cart p {
+    text-align: center
+}
+
+#pc-cart {
+    width: 780px;
+    height: 550px;
+    position: relative;
+    margin: 0 auto
+}
+
+#sp-cart {
+    width: 95%;
+    margin: 0 auto
+}
+
+#sp-cart p {
+    background: #222;
+    color: #fff;
+    border-radius: 0;
+    font-size: 30px;
+    width: 100%;
+    height: 300px;
+    line-height: 300px;
+    box-sizing: border-box
+}
+
+#milk-wrapper {
+    float: left;
+    width: 400px;
+    margin-left: 50px
+}
+
+#states {
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+
+#states span {
+    margin: 0 5px
+}
+
+#qr-left {
+    float: left
+}
+
+#qr-right {
+    float: right
+}
